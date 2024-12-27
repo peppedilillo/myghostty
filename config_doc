@@ -1,3 +1,6 @@
+# This file was generated with:
+# `ghostty +show-config --docs --default`
+#
 # The font families to use.
 # 
 # You can generate the list of valid values using the CLI:
