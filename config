@@ -38,3 +38,8 @@ window-padding-balance = true
 
 # OPTION/ALT KEY SETTINGS
 macos-option-as-alt = left
+
+# QUAKE MODE
+keybind = global:cmd+s=toggle_quick_terminal
+quick-terminal-position = bottom
+quick-terminal-animation-duration = 0.1
