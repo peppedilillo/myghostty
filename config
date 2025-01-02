@@ -1,5 +1,5 @@
 # WINDOW SIZING
-window-height = 20
+window-height = 24
 window-width = 80
 
 # THEMES AND COLORS
@@ -42,4 +42,4 @@ macos-option-as-alt = left
 # QUAKE MODE
 keybind = global:cmd+s=toggle_quick_terminal
 quick-terminal-position = bottom
-quick-terminal-animation-duration = 0.1
+quick-terminal-animation-duration = 0.2
