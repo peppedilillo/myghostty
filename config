@@ -27,19 +27,14 @@ palette = 14=#3aa99f
 palette = 15=#cecdc3
 palette = 16=#3ddbd9
 
-# BACKGROUND OPACITY
-background-opacity = 0.95
-# blurring radius is valid only on macos
-background-blur-radius = 20
-
 # TITLEBAR
-macos-titlebar-style = hidden
+macos-titlebar-style = transparent
 window-padding-balance = true
 
 # OPTION/ALT KEY SETTINGS
 macos-option-as-alt = left
 
 # QUAKE MODE
-keybind = global:cmd+s=toggle_quick_terminal
+keybind = global:cmd+shift+s=toggle_quick_terminal
 quick-terminal-position = bottom
 quick-terminal-animation-duration = 0.2
