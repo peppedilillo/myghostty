@@ -1,3 +1,4 @@
+Everything should live in `~/.config/ghostty/`.
 Add to .zshrc these lines:
 
 ```bash
@@ -9,4 +10,4 @@ fi
 # >>> ghostty
 ```
 
-you should be set now.
+Great, you are set!
