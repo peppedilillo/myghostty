@@ -2,6 +2,9 @@
 command = /usr/bin/zsh
 
 # WINDOW SIZING
+window-padding-balance = true
+window-padding-x = 0
+window-padding-y = 0
 window-height = 27
 window-width = 80
 
