@@ -2,7 +2,7 @@
 command = /usr/bin/zsh
 
 # WINDOW SIZING
-window-height = 24
+window-height = 27
 window-width = 80
 
 # THEMES AND COLORS
