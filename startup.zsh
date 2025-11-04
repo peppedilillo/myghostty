@@ -1,5 +1,5 @@
-# colors ls output
-alias ls='ls --color=auto'
+# uncomment to color ls output without -G flag
+# alias ls='ls --color=auto'
 source ~/.powerlevel10k/powerlevel10k.zsh-theme
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
